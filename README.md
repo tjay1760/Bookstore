@@ -128,7 +128,10 @@ You can deploy this project using:
 
 > This project was done by John Thiongo.
 
-👤 **John Thiongo**
+
+👤 **John Thiong'o**
+
+
 
 - GitHub: [@tjay1760](https://github.com/tjay1760)
 
@@ -189,7 +192,7 @@ We invite you to share this project with others and provide a favorable review i
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

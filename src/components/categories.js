@@ -1,6 +1,4 @@
-const Categories =()=>{
-    return(
-        <h1>Coming Soon!</h1>
-    )
-}
-export default Categories; 
+const Categories = () => (
+  <h1>Coming Soon!</h1>
+);
+export default Categories;
