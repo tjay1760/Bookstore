@@ -128,7 +128,10 @@ You can deploy this project using:
 
 > This project was done by John Thiongo.
 
+
 👤 **John Thiong'o**
+
+
 
 - GitHub: [@tjay1760](https://github.com/tjay1760)
 
